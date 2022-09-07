@@ -1,7 +1,0 @@
-# ML-credit-card-1
-
-
-## Dataset Information
-This file concerns credit card applications. All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data.
-
-This dataset is interesting because there is a good mix of attributes -- continuous, nominal with small numbers of values, and nominal with larger numbers of values. There are also a few missing values.
